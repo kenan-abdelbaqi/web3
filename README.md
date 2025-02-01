@@ -1,2 +1,2 @@
 # web3
-My Own Website
+web 3 study case
